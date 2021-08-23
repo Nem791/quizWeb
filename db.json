@@ -837,7 +837,7 @@
             "a": "A. Tên biến có thể bắt đầu bằng dấu gạch dưới _", 
             "b": "B. Có thể sử dụng keyword làm tên biến.", 
             "c": "C. Tên biến có thể bắt đầu bằng một chữ số.", 
-            "d": "Tên biến có thể có các ký hiệu như !, @, #, $, %,..."
+            "d": "D. Tên biến có thể có các ký hiệu như !, @, #, $, %,..."
         },
         {
             "quizNumber": "Câu 5",
@@ -1195,12 +1195,12 @@
         {
             "quizNumber": "Câu 20",
             "answers": ["A", "B", "C", "D"],
-            "rightAnswer": "E",
-            "quiz": "Điểm xấu nào bạn nghĩ tôi cần khắc phục nhất? (Câu này tự được cộng 1 điểm)",
-            "a": "A. Học kém", 
-            "b": "B. Thiếu tự tin", 
-            "c": "C. Nhạt nhẽo", 
-            "d": "D. Không thân thiện"
+            "rightAnswer": "A",
+            "quiz": "Tên thật của Nem? =))",
+            "a": "A. Nguyễn Phương Nam", 
+            "b": "B. Nguyễn Phương Nem", 
+            "c": "C. Nguyễn Hoàng Nam", 
+            "d": "D. Nguyễn Đức Nam"
         }
     ]]
 
